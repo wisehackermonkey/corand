@@ -17,6 +17,7 @@
     "@types/cookie": "^0.4.1",
     "prettier": "^2.4.1",
     "prettier-plugin-svelte": "^2.4.0",
+    "prisma": "^3.7.0",
     "svelte": "^3.44.0",
     "svelte-check": "^2.2.6",
     "svelte-preprocess": "^4.9.4",
@@ -27,6 +28,7 @@
   "dependencies": {
     "@fontsource/fira-mono": "^4.5.0",
     "@lukeed/uuid": "^2.0.0",
+    "@prisma/client": "^3.7.0",
     "cookie": "^0.4.1"
   }
 }
